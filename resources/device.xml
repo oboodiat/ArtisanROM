@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<devices>
+    <device
+        codename="x1s"
+        name="Samsung Galaxy S20"
+        banner_url="https://raw.githubusercontent.com/ArtisanROM/ExtremeROM-Revived/refs/heads/main/resources/banners/x1s.png" />
+    <device
+        codename="y2s"
+        name="Samsung Galaxy S20+"
+        banner_url="https://raw.githubusercontent.com/ArtisanROM/ExtremeROM-Revived/refs/heads/main/resources/banners/y2s.png" />
+    <device
+        codename="z3s"
+        name="Samsung Galaxy S20 Ultra"
+        banner_url="https://raw.githubusercontent.com/ArtisanROM/ExtremeROM-Revived/refs/heads/main/resources/banners/z3s.png" />
+    <device
+        codename="c1s"
+        name="Samsung Galaxy Note 20"
+        banner_url="https://raw.githubusercontent.com/ArtisanROM/ExtremeROM-Revived/refs/heads/main/resources/banners/c1s.png" />
+    <device
+        codename="c2s"
+        name="Samsung Galaxy Note 20 Ultra"
+        banner_url="https://raw.githubusercontent.com/ArtisanROM/ExtremeROM-Revived/refs/heads/main/resources/banners/c2s.png" />
+    <device
+        codename="r8s"
+        name="Samsung Galaxy S20 FE"
+        banner_url="https://raw.githubusercontent.com/ArtisanROM/ExtremeROM-Revived/refs/heads/main/resources/banners/r8s.png" />
+    <device
+        codename="beyondx"
+        name="Samsung Galaxy S10 5G"
+        banner_url="https://raw.githubusercontent.com/ArtisanROM/ExtremeROM-Revived/refs/heads/main/resources/banners/beyondx.png" />
+    <device
+        codename="beyond0lte"
+        name="Samsung Galaxy S10e"
+        banner_url="https://raw.githubusercontent.com/ArtisanROM/ExtremeROM-Revived/refs/heads/main/resources/banners/beyond0lte.png" />
+    <device
+        codename="beyond1lte"
+        name="Samsung Galaxy S10"
+        banner_url="https://raw.githubusercontent.com/ArtisanROM/ExtremeROM-Revived/refs/heads/main/resources/banners/beyond1lte.png" />
+    <device
+        codename="beyond2lte"
+        name="Samsung Galaxy S10+"
+        banner_url="https://raw.githubusercontent.com/ArtisanROM/ExtremeROM-Revived/refs/heads/main/resources/banners/beyond2lte.png" />
+    <device
+        codename="test"
+        name="Samsung Galaxy S20+"
+        banner_url="https://raw.githubusercontent.com/ArtisanROM/ExtremeROM-Revived/refs/heads/main/resources/banners/y2s.png" />
+</devices>
